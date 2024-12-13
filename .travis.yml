@@ -1,4 +1,4 @@
-#Write user has not signed up TCI and Write user triggers a build
+#Read user has NOT signed up TCI and Read user triggers a build via a fork	
 os: linux
 
 language: java
