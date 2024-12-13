@@ -1,4 +1,4 @@
-#Write user has not signed up TCI and Write user triggers a build
+#NOT member and NOT signed up and READ and opens a PR via fork
 os: linux
 
 language: java
