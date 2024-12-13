@@ -1,4 +1,3 @@
-#NOT member and NOT signed up and READ and opens a PR via fork
 os: linux
 
 language: java
