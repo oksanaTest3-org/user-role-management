@@ -1,4 +1,4 @@
-#Write user has signed up on TCI and Write user triggers a build
+#Write user has not signed up TCI and Write user triggers a build
 os: linux
 
 language: java
