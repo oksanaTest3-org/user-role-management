@@ -1,4 +1,4 @@
-#Write user not signed up and Write user triggers a build being an OUTSIDE COLLABORATOR
+#Read user NOT signed up TCI and Read triggers a build via a fork being an OUTSIDE COLLABORATOR
 os: linux
 
 language: java
