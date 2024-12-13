@@ -1,4 +1,4 @@
-#Write user not signed up and Write user triggers a build being an OUTSIDE COLLABORATOR
+#NOT member of Org and signed up TCI and has read access and opens PR via fork
 os: linux
 
 language: java
