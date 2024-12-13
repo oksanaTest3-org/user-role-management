@@ -1,4 +1,4 @@
-#Write user has not signed up TCI and Write user triggers a build
+#Write user not signed up and Write user triggers a build being an OUTSIDE COLLABORATOR
 os: linux
 
 language: java
