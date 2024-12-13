@@ -1,4 +1,3 @@
-#member and signed up TCI and write access and opens PR via fork
 os: linux
 
 language: java
