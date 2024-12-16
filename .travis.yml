@@ -1,4 +1,4 @@
-#Write access
+#Write access and signed up to Travis and trigger build from fork
 os: linux
 
 language: java
