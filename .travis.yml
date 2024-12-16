@@ -1,4 +1,4 @@
-#Write access and signed up to TCI and trigger build from fork
+#Write access
 os: linux
 
 language: java
