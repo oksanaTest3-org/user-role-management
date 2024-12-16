@@ -1,4 +1,4 @@
-#NOT member and NOT signed on TCI and WRITE access and opens a PR via fork
+#MEMBER and NOT signed on TCI and WRITE access and opens a PR via fork
 os: linux
 
 language: java
