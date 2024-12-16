@@ -1,4 +1,4 @@
-#MEMBER and has signed on TCI and NO access and opens a PR via fork
+#Write access and signed up to TCI and trigger build from fork
 os: linux
 
 language: java
